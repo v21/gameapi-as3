@@ -59,7 +59,7 @@ Call this at the very start of your game loading:
 	
 		swfid = from your API page in Playtomic
 		guid = from your API page in Playtomic
-		defaulturl = path to the swf, should be root.loaderInfo.loaderUrl;
+		defaulturl = path to the swf, should be root.loaderInfo.loaderURL;
 
 This registers that the player has viewed your game and initializes the
 API.  You can track when the player actually starts playing (eg play button)
